@@ -1,0 +1,42 @@
+================================
+	REVIEW MY GAME
+	  Jenny Tran
+       jektran@ucsc.edu
+================================
+
+The website should have several pages, including: the home page, list all games, game review page, and an add reviews page.
+
+Home page: Display a randomly featured game or newest game (have not decided between these two) and a short introduction on how the website works.
+
+Games list: Show all games that have been currently reviewed on the site.
+
+Game Reviews: After finding a game on the game list, you can view more detailed information about the game as well as read the reviews.
+
+Add Reviews: You may add your own reviews on this page.
+
+=================================
+
+Currently, using databases to handle pretty much everything, such as creating reviews, adding comments, etc.
+
+Using a plugin for a rating system right now, but may switch to using database/javascript.
+
+The layout will be as simple as can be, and will not be elaborate unless there is enough time for it.
+
+=================================
+
+Currently, the core features this site must have is:
+-A rating/review system
+-A comment system
+-A way to upload screenshots for the game
+
+Current problems I must address are:
+-How to list all games without repeating
+-How to implement rating/review/comment systems
+-Listing the appropriate information about the game before showing all the reviews
+
+Future features that can be added if time permits:
+-Be able to rate a user
+-Be able to search for a game
+-Be able to just click a button to find a random game
+-Maybe sort by consoles or genre?
+
